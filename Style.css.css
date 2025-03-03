@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h1{
+    color: pink;
+    font: bolder;
+}
+h2{
+    color: violet;
+    font: italic;
+}
+h3{
+    color: rgb(51, 65, 60);
+    font: optional;
+}
